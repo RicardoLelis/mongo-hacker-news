@@ -1,0 +1,28 @@
+{
+  "name": "mongo-hacker-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoLelis/mongo-hacker-news.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoLelis/mongo-hacker-news/issues"
+  },
+  "homepage": "https://github.com/RicardoLelis/mongo-hacker-news#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4",
+    "ndjson": "^2.0.0",
+    "request": "^2.88.2",
+    "sentiment": "^5.0.2",
+    "through2": "^4.0.2",
+    "through2-filter": "^3.0.0"
+  }
+}
